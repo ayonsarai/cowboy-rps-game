@@ -24,19 +24,11 @@ Welcome to the **Cowboy Rock-Paper-Scissors Showdown**, a Western-themed twist o
 2. Open the `index.html` file in any modern browser.
 3. Enjoy the cowboy showdown!
 
-## 🎨 Future Enhancements
+## 🎨 Desired Future Enhancements
 - Add cowboy sound effects for a more immersive experience.
 - Include animations for buttons and results.
 - Introduce new game modes like "Best of Three" or "Tournament Mode."
 - Add difficulty levels (Easy, Medium, Hard).
-
-## 🤝 Contributing
-Pull requests are welcome! If you’d like to add new features or improve the design, feel free to fork the repository and submit a PR.
-
-## 📜 License
-This project is licensed under the MIT License.
-
----
 
 Enjoy the game, partner! 🤠
 
